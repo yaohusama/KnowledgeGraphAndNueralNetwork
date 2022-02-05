@@ -1,0 +1,5 @@
+time:2021-10-16 10:03:09	epoch: 	test loss:2.5372305	test acc:0.6875
+time:2021-10-16 10:03:15	epoch: 	test loss:2.2997224	test acc:0.75
+time:2021-10-16 10:03:19	epoch: 	test loss:3.5984879	test acc:0.71875
+time:2021-10-16 10:03:23	epoch: 	test loss:4.767875	test acc:0.625
+time:2021-10-16 10:03:27	epoch: 	test loss:3.151641	test acc:0.625
